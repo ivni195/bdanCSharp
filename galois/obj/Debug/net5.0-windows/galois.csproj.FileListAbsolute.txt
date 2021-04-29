@@ -1,0 +1,16 @@
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.exe
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.deps.json
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.runtimeconfig.json
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.runtimeconfig.dev.json
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.dll
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\ref\galois.dll
+C:\Users\kuba1\Desktop\crypt\crypt\galois\bin\Debug\net5.0-windows\galois.pdb
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.csprojAssemblyReference.cache
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.AssemblyInfoInputs.cache
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.AssemblyInfo.cs
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.csproj.CoreCompileInputs.cache
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.dll
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\ref\galois.dll
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.pdb
+C:\Users\kuba1\Desktop\crypt\crypt\galois\obj\Debug\net5.0-windows\galois.genruntimeconfig.cache
